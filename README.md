@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachevskiy Artem from Chelyabinsk, Russia
 - 👀 I’m interested in desktop and game development
-- 🌱 I’m currently learning C#, OOP, MVVM
+- 🌱 I’m currently learning C#, OOP, MVVM, Unity
 - 📫 e-mail: sachevskyartem@yandex.ru
 
 <!---
